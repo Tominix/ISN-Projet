@@ -1,3 +1,5 @@
+import fonction as f
+
 def main():
   """
   Les 3 " permettent de faire des longs commentaires
