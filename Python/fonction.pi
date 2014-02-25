@@ -1,0 +1,6 @@
+def compare(a,b):
+    if a=b:
+        print("equal")
+    elif
+        
+    else
