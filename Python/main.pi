@@ -1,0 +1,5 @@
+def main():
+  """
+  Les 3 " permettent de faire des longs commentaires
+  """
+  #Pour les petits commentaires, il suffit d'un #
